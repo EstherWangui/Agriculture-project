@@ -71,7 +71,7 @@ ul li{
 .exist.diagram-small img {
     float: inline-end;
     border: 30px;
-    background-color: chartreuse;
+    background-clor: chartreuse;
 }
 .project{
     width: 100%;
