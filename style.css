@@ -21,6 +21,9 @@ button{
     margin: 40px;
     font-size: 35px;
 }
+#exit{
+    font-size: 25px;
+}
 
 .popular p{
     font-size: 11px;
