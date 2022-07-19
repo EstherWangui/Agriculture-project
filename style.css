@@ -112,15 +112,21 @@ ul li{
   display: flex;  
     
 }
+.exist p{font-size: 28px;
+
+}
 .device{
     flex: 25%;
 }
 .item{
     display: flex;
 }
-h2:hover {background-color: coral;}
+h2:hover {background-color: blue;}
 .ten{
     flex: 25%;
+}
+h1:hover{
+    background-color: coral;
 }
 
 .item div img{
